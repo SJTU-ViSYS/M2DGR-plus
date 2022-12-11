@@ -11,18 +11,6 @@ extension and update of M2DGR: a Multi-modal and Multi-scenario SLAM Dataset for
 
 
 
-<center>
-<img src="https://github.com/shuttworth/Record_Datasets_For_LVI-SAM/blob/main/img/gate_01_v1.gif" width="70%">
-</center>
-
-<center>
-<img src="https://github.com/shuttworth/Record_Datasets_For_LVI-SAM/blob/main/img/street_08_v1.gif" width="70%">
-</center>
-
-<p align="left">LVI-SAM on M2DGR</p>
-
-
-
 ## NOTICE
 ### We strongly recommend that the newly proposed SLAM algorithm be tested on our data, because our data has following features:
 1. A  rich pool of sensory information including vision, lidar, IMU, GNSS,event, thermal-infrared images and so on
