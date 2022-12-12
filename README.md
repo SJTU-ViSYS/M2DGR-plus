@@ -10,6 +10,13 @@ extension and update of M2DGR: a Multi-modal and Multi-scenario SLAM Dataset for
 
 
 
+<div align=center>
+<img src="https://github.com/sjtuyinjie/M2DGR-plus/tree/main/fig/car2.jpg" width="800px">
+</div>
+
+<p align="left">Figure 2. The GAEA Ground Robot Equipped with a Full Sensor Suite.The directions of the sensors are marked in different colors,red for X,green for Y and blue for Z.</p>
+
+
 ## NOTICE
 ### We strongly recommend that the newly proposed SLAM algorithm be tested on our data, because our data has following features:
 1. A  rich pool of sensory information including vision, lidar, IMU, GNSS,event, thermal-infrared images and so on
