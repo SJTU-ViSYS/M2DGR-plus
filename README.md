@@ -3,11 +3,10 @@ extension and update of M2DGR: a Multi-modal and Multi-scenario SLAM Dataset for
 
 ## First Author: [Jie Yin](https://github.com/sjtuyinjie?tab=repositories)
 <div align=center>
-<img src=https://github.com/sjtuyinjie/M2DGR-plus/tree/main/fig/car2.jpg width="800px">
+<img src="https://github.com/sjtuyinjie/M2DGR-plus/tree/main/fig/car2.jpg" width="800px">
 
 </div>
 <p align="center">Figure 1. Sample Images</p>
-
 
 
 
