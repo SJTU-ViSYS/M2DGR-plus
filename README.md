@@ -3,18 +3,13 @@ extension and update of M2DGR: a Multi-modal and Multi-scenario SLAM Dataset for
 
 ## First Author: [Jie Yin](https://github.com/sjtuyinjie?tab=repositories)
 <div align=center>
-<img src="https://github.com/sjtuyinjie/M2DGR-plus/tree/main/fig/car2.jpg" width="800px">
+<img src="./fig/car2.jpg" width="800px">
 
 </div>
 <p align="center">Figure 1. Sample Images</p>
 
 
 
-<div align=center>
-<img src="https://github.com/sjtuyinjie/M2DGR-plus/tree/main/fig/car2.jpg" width="800px">
-</div>
-
-<p align="left">Figure 2. The GAEA Ground Robot Equipped with a Full Sensor Suite.The directions of the sensors are marked in different colors,red for X,green for Y and blue for Z.</p>
 
 
 ## NOTICE
