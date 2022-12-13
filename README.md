@@ -46,23 +46,22 @@ All the sensors and track devices and their most important parameters are listed
 
 The rostopics of our rosbag sequences are listed as follows:
 
-* LIDAR: `/rslidar_points` 
+* 3D LIDAR: `/rslidar_points` 
+
+* 2D LIDAR: `/scan` 
+
+* Odom: `/odom` 
 
 * GNSS Ublox F9p:  
-`/ublox/aidalm `,  
-`/ublox/aideph `,  
-`/ublox/fix `,  
-`/ublox/fix_velocity `,  
-`/ublox/monhw `,  
-`/ublox/navclock `,  
-`/ublox/navpvt `,  
-`/ublox/navsat `,  
-`/ublox/navstatus `,  
-`/ublox/rxmraw `  
+`/ublox_driver/ephem `,  
+`/ublox_driver/glo_ephem `,
+`/ublox_driver/range_meas `,
+`/ublox_driver/receiver_lla `,
+`/ublox_driver/receiver_pvt `
 
 
 * V-I Sensor:  
-`/camera/color/image_raw/compressed `,  
+`/camera/color/image_raw`,  
 `/camera/imu`
 * IMU: `/imu `
  
