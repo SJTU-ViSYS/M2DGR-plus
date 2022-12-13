@@ -35,10 +35,7 @@ If you face any problem when using this dataset, feel free to propose an issue. 
 All the sensors and track devices and their most important parameters are listed as below:
 
 * **LIDAR** Robosense 16, 360 Horizontal Field of View (FOV),-30 to +10 vertical FOV,10Hz,Max Range 200 m,Range Resolution 3 cm, Horizontal Angular Resolution 0.2°.  
-
-* **RGB Camera** FLIR Pointgrey CM3-U3-13Y3C-CS,fish-eye lens,1280*1024,190 HFOV,190 V-FOV, 15 Hz  
 * **GNSS** Ublox F9p, GPS/BeiDou/Glonass/Galileo, 1Hz  
-* **Infrared Camera**,PLUG 617,640*512,90.2 H-FOV,70.6 V-FOV,25Hz;  
 * **V-I Sensor**,Realsense d435i,RGB/Depth 640*480,69H-FOV,42.5V-FOV,15Hz;IMU 6-axix, 200Hz  
 * **IMU**,wheeltec,9-axis,50Hz;  
 * **GNSS-IMU** Xsens Mti 680G. GNSS-RTK,localization precision 2cm,100Hz;IMU 9-axis,100 Hz;  
