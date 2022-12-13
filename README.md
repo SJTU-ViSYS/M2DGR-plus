@@ -54,15 +54,20 @@ The rostopics of our rosbag sequences are listed as follows:
 
 * GNSS Ublox F9p:  
 `/ublox_driver/ephem `,  
+
 `/ublox_driver/glo_ephem `,
+
 `/ublox_driver/range_meas `,
+
 `/ublox_driver/receiver_lla `,
+
 `/ublox_driver/receiver_pvt `
 
 
 * V-I Sensor:  
 `/camera/color/image_raw`,  
 `/camera/imu`
+
 * IMU: `/imu `
  
 
