@@ -15,7 +15,7 @@ Extension and update of M2DGR: a novel Multi-modal and Multi-scenario SLAM Datas
 ## NOTICE
 ### At present all the data are kept private. The full dataset with GT trajectories and calibration results will be made public upon paper acceptance.
 If our work is helpful for your research, please follow us and give a star! Feel free to propose issues if you have any questions. The dataset will keep updating.
-## We'd consider your suggestions and provide data support for SLAM reseachers as we can to facilitate SLAM progress.
+### We'd consider your suggestions and provide data support for SLAM reseachers as we can to facilitate SLAM progress.
 
 
 ## 1.LICENSE
