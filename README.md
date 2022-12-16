@@ -132,15 +132,15 @@ pip install evo --upgrade --no-binary evo
 ~~~
 To evaluate monocular visual SLAM,type
 ~~~
-evo_ape tum street_07.txt your_result.txt -vaps
+evo_ape tum bridge1.txt your_result.txt -vaps
 ~~~
 To evaluate LIDAR SLAM,type
 ~~~
-evo_ape tum street_07.txt your_result.txt -vap
+evo_ape tum bridge1.txt your_result.txt -vap
 ~~~
 To test GNSS based methods,type
 ~~~
-evo_ape tum street_07.txt your_result.txt -vp
+evo_ape tum bridge1.txt your_result.txt -vp
 ~~~
 
 ### 5.3 Calibration
