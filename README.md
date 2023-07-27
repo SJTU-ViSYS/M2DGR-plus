@@ -89,9 +89,20 @@ Building_01|2022-11-18|3.7g|120s|Building, Far features|[Rosbag](tbd)|[GT](tbd)
 Building_02|2022-11-18|3.4g|110s|Building, Far features|[Rosbag](tbd)|[GT](tbd)
 </div>
 
+## 4. EXPERIMENTAL RESULTS
+<div align=center>
+<img src="./fig/result.png" width="800px">
 
+</div>
+<p align="center">Figure 2. The ATE RMSE (m) result on some sequences.</p>
 
-## 4. CONFIGURERATION FILES
+<div align=center>
+<img src="./fig/resultf.png" width="800px">
+
+</div>
+<p align="center">Figure 3. The visualized trajectory.</p>
+
+## 5. CONFIGURERATION FILES
 For convenience of evaluation, we provide configuration files of some well-known SLAM systems as below:
 
 [VINS-Mono](TBD),
@@ -108,8 +119,8 @@ For convenience of evaluation, we provide configuration files of some well-known
 
 
 
-## 5.DEVELOPMENT TOOLKITS
-### 5.1 Extracting Images
+## 6.DEVELOPMENT TOOLKITS
+### 6.1 Extracting Images
 * For rosbag users, first make image view
 ~~~
 roscd image_view
@@ -123,7 +134,7 @@ rosrun image_transport republish compressed in:=/camera/color/image_raw raw out:
 ~~~
 * For non-rosbag users,just take advantage of following script  [export_tum](https://github.com/sjtuyinjie/toolkit/blob/main/export_tum.py),[export_euroc](https://github.com/sjtuyinjie/toolkit/blob/main/export_euroc.py) and [get_csv](https://github.com/sjtuyinjie/toolkit/blob/main/img2csv.py) to get data in formats of Tum or EuRoC.
 
-### 5.2 Evaluation
+### 6.2 Evaluation
 We use open-source tool [evo](https://github.com/MichaelGrupp/evo) for evalutation.
 To install evo,type
 ~~~
@@ -142,7 +153,7 @@ To test GNSS based methods,type
 evo_ape tum bridge1.txt your_result.txt -vp
 ~~~
 
-### 5.3 Calibration
+### 6.3 Calibration
 For camera intrinsics,visit [Ocamcalib](http://sites.google.com/site/scarabotix/ocamcalib-toolbox) for omnidirectional model.
 visit [Vins-Fusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion) for pinhole and MEI model.
 use [Opencv](https://opencv.org/) for Kannala Brandt model
