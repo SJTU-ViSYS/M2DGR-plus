@@ -91,13 +91,13 @@ Building_02|2022-11-18|3.4g|110s|Building, Far features|[Rosbag](tbd)|[GT](tbd)
 
 ## 4. EXPERIMENTAL RESULTS
 <div align=center>
-<img src="./fig/result.png" width="800px">
+<img src="./fig/resultf.png" width="800px">
 
 </div>
 <p align="center">Figure 2. The ATE RMSE (m) result on some sequences.</p>
 
 <div align=center>
-<img src="./fig/resultf.png" width="800px">
+<img src="./fig/result.png" width="800px">
 
 </div>
 <p align="center">Figure 3. The visualized trajectory.</p>
