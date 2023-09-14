@@ -13,8 +13,8 @@ Extension and update of [M2DGR](https://github.com/SJTU-ViSYS/M2DGR): a novel Mu
 
 
 ## NOTICE
-### 1. At present all the data are kept private. The full dataset with GT trajectories and calibration results will be made public upon paper acceptance.
-### 2. We'd consider your suggestions and provide data support for SLAM reseachers as we can to facilitate SLAM progress.
+### At present all the data are kept private. The full dataset with GT trajectories and calibration results will be made public upon paper acceptance.
+
 
 
 ## 1.LICENSE
