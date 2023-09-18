@@ -90,6 +90,7 @@ Building_02|2022-11-18|3.4g|110s|Building, Far features|[Rosbag](tbd)|[GT](tbd)
 </div>
 
 ## 4. EXPERIMENTAL RESULTS
+### In some cases, our Ground-Fusion achieves comparable performance to Lidar SLAM!
 <div align=center>
 <img src="./fig/resultf.png" width="800px">
 
