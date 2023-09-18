@@ -154,16 +154,6 @@ To test GNSS based methods,type
 evo_ape tum bridge1.txt your_result.txt -vp
 ~~~
 
-### 6.3 Calibration
-For camera intrinsics,visit [Ocamcalib](http://sites.google.com/site/scarabotix/ocamcalib-toolbox) for omnidirectional model.
-visit [Vins-Fusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion) for pinhole and MEI model.
-use [Opencv](https://opencv.org/) for Kannala Brandt model
-
-For IMU intrinsics,visit [Imu_utils](https://github.com/gaowenliang/imu_utils)
-
-For extrinsics between cameras and IMU,visit [Kalibr](https://github.com/ethz-asl/kalibr)
-For extrinsics between Lidar and IMU,visit [Lidar_IMU_Calib](https://github.com/APRIL-ZJU/lidar_IMU_calib) 
-For extrinsics between cameras and Lidar, visit [Autoware](https://github.com/Autoware-AI/autoware.ai) 
 
 
 
