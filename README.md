@@ -89,6 +89,9 @@ Building_01|2022-11-18|3.7g|120s|Building, Far features|[Rosbag](tbd)|[GT](tbd)
 Building_02|2022-11-18|3.4g|110s|Building, Far features|[Rosbag](tbd)|[GT](tbd)
 </div>
 
+
+along with Three challenging datasets: switch, tree, lowspeed.
+
 ## 4. EXPERIMENTAL RESULTS
 ### In some cases, our Ground-Fusion achieves comparable performance to Lidar SLAM!
 <div align=center>
