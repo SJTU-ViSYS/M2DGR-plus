@@ -79,14 +79,17 @@ The rostopics of our rosbag sequences are listed as follows:
 
 Sequence Name|Collection Date|Total Size|Duration|Features|Rosbag|GT
 --|:--|:--:|--:|--:|--:|--:
-Bridge_01|2022-11-17|2.4g|75s|Bridge, Zigzag|[Rosbag](tbd)|[GT](tbd)
-Bridge_02|2022-11-17|16.0g|501s|Bridge, Long-term,Straight line|[Rosbag](tbd)|[GT](tbd)
-Street_01|2022-11-17|1.7g|58s|Street, Straight line|[Rosbag](tbd)|[GT](tbd)
-Street_02|2022-11-17|3.9g|126s|Bridge, Sharp turn|[Rosbag](tbd)|[GT](tbd)
-Parking_01|2022-11-18|3.3g|105s|Parking lot, Side moving|[Rosbag](tbd)|[GT](tbd)
-Parking_02|2022-11-18|5.4g|149s|Parking lot, Rectangle loop|[Rosbag](tbd)|[GT](tbd)
-Building_01|2022-11-18|3.7g|120s|Building, Far features|[Rosbag](tbd)|[GT](tbd)
-Building_02|2022-11-18|3.4g|110s|Building, Far features|[Rosbag](tbd)|[GT](tbd)
+Bridge_01|2022-11|2.4g|75s|Bridge, Zigzag|[Rosbag](tbd)|[GT](tbd)
+Bridge_02|2022-11|16.0g|501s|Bridge, Long-term,Straight line|[Rosbag](tbd)|[GT](tbd)
+Street_01|2022-11|1.7g|58s|Street, Straight line|[Rosbag](tbd)|[GT](tbd)
+Street_02|2022-11|3.9g|126s|Bridge, Sharp turn|[Rosbag](tbd)|[GT](tbd)
+Parking_01|2022-11|3.3g|105s|Parking lot, Side moving|[Rosbag](tbd)|[GT](tbd)
+Parking_02|2022-11|5.4g|149s|Parking lot, Rectangle loop|[Rosbag](tbd)|[GT](tbd)
+Building_01|2022-11|3.7g|120s|Building, Far features|[Rosbag](tbd)|[GT](tbd)
+Building_02|2022-11|3.4g|110s|Building, Far features|[Rosbag](tbd)|[GT](tbd)
+Switch|2023-8|9.5g|292s|indoor-outdoor switch|[Rosbag](tbd)|[GT](tbd)
+Tree|2023-8|3.7g|160s|Dense tree leave cover|[Rosbag](tbd)|[GT](tbd)
+Lowspeed|2023-8|13.7g|421s|Low speed, several stops|[Rosbag](tbd)|[GT](tbd)
 </div>
 
 
