@@ -96,8 +96,8 @@ Building_02|2022-11|3.4g|110s|Building, Far features|[Rosbag](tbd)|[GT](tbd)
 
 
 ## 4. EXPERIMENTAL RESULTS
-### We test methods with diverse senser settings to validate our benchmark dataset. 
-Results show that in some cases, our Ground-Fusion achieves comparable performance to Lidar SLAM!
+### We test methods with diverse senser settings to validate our benchmark dataset. Results shown that our dataset is a valid and effective testfield for SLAM systems.
+And in some cases, our Ground-Fusion achieves comparable performance to Lidar SLAM!
 <div align=center>
 <img src="./fig/resultf.png" width="800px">
 
