@@ -13,7 +13,7 @@ Extension and update of [M2DGR](https://github.com/SJTU-ViSYS/M2DGR): a novel Mu
 
 
 ## NOTICE
-### At present all the data are kept private. The full dataset with GT trajectories and calibration results will be made public upon paper acceptance.
+### The full dataset with GT trajectories and calibration results will be made public upon paper acceptance. Due to space limitation, dataset descriptions are not elaborated in the main paper. Instead, the details are shown in this website.
 
 
 
@@ -96,7 +96,7 @@ Building_02|2022-11|3.4g|110s|Building, Far features|[Rosbag](tbd)|[GT](tbd)
 
 
 ## 4. EXPERIMENTAL RESULTS
-### We test methods with diverse senser settings to validate our benchmark dataset. Results shown that our dataset is a valid and effective testfield for SLAM systems.
+### We test methods with diverse senser settings to validate our benchmark dataset. Results shown that our dataset is a valid and effective testfield for localization methods.
 And in some cases, our Ground-Fusion achieves comparable performance to Lidar SLAM!
 <div align=center>
 <img src="./fig/resultf.png" width="800px">
