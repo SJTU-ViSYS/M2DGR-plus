@@ -82,14 +82,14 @@ Sequence Name|Collection Date|Total Size|Duration|Features|Rosbag|GT
 Switch|2023-8|9.5g|292s|indoor-outdoor switch|[Rosbag](tbd)|[GT](tbd)
 Tree|2023-8|3.7g|160s|Dense tree leave cover|[Rosbag](tbd)|[GT](tbd)
 Lowspeed|2023-8|13.7g|421s|Low speed, several stops|[Rosbag](tbd)|[GT](tbd)
-Bridge_01|2022-11|2.4g|75s|Bridge, Zigzag|[Rosbag](tbd)|[GT](tbd)
-Bridge_02|2022-11|16.0g|501s|Bridge, Long-term,Straight line|[Rosbag](tbd)|[GT](tbd)
-Street_01|2022-11|1.7g|58s|Street, Straight line|[Rosbag](tbd)|[GT](tbd)
-Street_02|2022-11|3.9g|126s|Bridge, Sharp turn|[Rosbag](tbd)|[GT](tbd)
-Parking_01|2022-11|3.3g|105s|Parking lot, Side moving|[Rosbag](tbd)|[GT](tbd)
-Parking_02|2022-11|5.4g|149s|Parking lot, Rectangle loop|[Rosbag](tbd)|[GT](tbd)
-Building_01|2022-11|3.7g|120s|Building, Far features|[Rosbag](tbd)|[GT](tbd)
-Building_02|2022-11|3.4g|110s|Building, Far features|[Rosbag](tbd)|[GT](tbd)
+Bridge_01|2022-11|2.4g|75s|Bridge, Zigzag|[Rosbag](https://sjtueducn-my.sharepoint.com/:u:/g/personal/594666_sjtu_edu_cn/EftDI1uQ_M1Hp4LZVof4sHgB4_IF2C9HBsWYZKAK2mr4EA?e=dydvKz)|[GT](tbd)
+Bridge_02|2022-11|16.0g|501s|Bridge, Long-term,Straight line|[Rosbag](https://sjtueducn-my.sharepoint.com/:u:/g/personal/594666_sjtu_edu_cn/EUrTvD2zK2hNimekHiJS5rABME45O5s7ksSAJpd3ipD-BA?e=7aicGk)|[GT](tbd)
+Street_01|2022-11|1.7g|58s|Street, Straight line|[Rosbag](https://sjtueducn-my.sharepoint.com/:u:/g/personal/594666_sjtu_edu_cn/Ebap2epwtTtHhWtp0AO_nnYB7S7zDZkkW-zTpYVmrHfOEA?e=JvDij7)|[GT](tbd)
+Street_02|2022-11|3.9g|126s|Bridge, Sharp turn|[Rosbag](https://sjtueducn-my.sharepoint.com/:u:/g/personal/594666_sjtu_edu_cn/EdqjNDDhVkJNhwA9DKlPnTsBIXh0xCGITpvQ1b4bG__k0A?e=chWjV8)|[GT](tbd)
+Parking_01|2022-11|3.3g|105s|Parking lot, Side moving|[Rosbag](https://sjtueducn-my.sharepoint.com/:u:/g/personal/594666_sjtu_edu_cn/EaCXXT2SAP9AmmqR1LUYwu4By3z5P3jhdeROv8EPdp9C0A?e=fQqJq5)|[GT](tbd)
+Parking_02|2022-11|5.4g|149s|Parking lot, Rectangle loop|[Rosbag](https://sjtueducn-my.sharepoint.com/:u:/g/personal/594666_sjtu_edu_cn/EX7UjX535NZBkaXSIX63Pg4BMDGXfIfkjS7JvL-0lUA8mQ?e=lAMTTu)|[GT](tbd)
+Building_01|2022-11|3.7g|120s|Building, Far features|[Rosbag](https://sjtueducn-my.sharepoint.com/:u:/g/personal/594666_sjtu_edu_cn/EUqNPeUal1JDnSd9ZbYKo5EBoaQKrna5m23B7LxzAB-mtQ?e=QtWUal)|[GT](tbd)
+Building_02|2022-11|3.4g|110s|Building, Far features|[Rosbag](https://sjtueducn-my.sharepoint.com/:u:/g/personal/594666_sjtu_edu_cn/EQcO7OhqhYlCv1tAQJeD6EkBi50Ot3OPajKtZmZJlJFyUw?e=NBS9rs)|[GT](tbd)
 
 </div>
 
