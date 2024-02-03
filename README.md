@@ -29,7 +29,7 @@ This work is licensed under MIT license. International License and is provided f
 
 
 
-The calibration results are [link](https://github.com/sjtuyinjie/M2DGR-plus/blob/main/calibration.txt)
+The calibration results are [here](https://github.com/sjtuyinjie/M2DGR-plus/blob/main/calibration.txt).
 All the sensors and track devices and their most important parameters are listed as below:
 
 * **LIDAR** Robosense 16, 360 Horizontal Field of View (FOV),-30 to +10 vertical FOV,10Hz,Max Range 200 m,Range Resolution 3 cm, Horizontal Angular Resolution 0.2°.  
