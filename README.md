@@ -29,7 +29,7 @@ This work is licensed under MIT license. International License and is provided f
 
 
 
-
+The calibration results are [link]()
 All the sensors and track devices and their most important parameters are listed as below:
 
 * **LIDAR** Robosense 16, 360 Horizontal Field of View (FOV),-30 to +10 vertical FOV,10Hz,Max Range 200 m,Range Resolution 3 cm, Horizontal Angular Resolution 0.2°.  
@@ -69,19 +69,10 @@ The rostopics of our rosbag sequences are listed as follows:
 ## 3.DATASET SEQUENCES
 
 
-
-
-
-
-
-
-
-
 Sequence Name|Collection Date|Total Size|Duration|Features|Rosbag|GT
 --|:--|:--:|--:|--:|--:|--:
 Switch|2023-8|9.5g|292s|indoor-outdoor switch|[Rosbag](https://sjtueducn-my.sharepoint.com/:u:/g/personal/594666_sjtu_edu_cn/ESRoBZtYjrtAkOzZZZxjtLIBowQqF3G9Vz-jiaUCCy6E_A?e=RtZkwL)|[GT](tbd)
 Tree|2023-8|3.7g|160s|Dense tree leave cover|[Rosbag](https://sjtueducn-my.sharepoint.com/:u:/g/personal/594666_sjtu_edu_cn/EV9aZQbxo7pChOxZEWqdP0IBDpySkhtOXNIRKP3ijDK62Q?e=fW0afm)|[GT](tbd)
-Lowspeed|2023-8|13.7g|421s|Low speed, several stops|[Rosbag](tbd)|[GT](tbd)
 Bridge_01|2022-11|2.4g|75s|Bridge, Zigzag|[Rosbag](https://sjtueducn-my.sharepoint.com/:u:/g/personal/594666_sjtu_edu_cn/EftDI1uQ_M1Hp4LZVof4sHgB4_IF2C9HBsWYZKAK2mr4EA?e=dydvKz)|[GT](tbd)
 Bridge_02|2022-11|16.0g|501s|Bridge, Long-term,Straight line|[Rosbag](https://sjtueducn-my.sharepoint.com/:u:/g/personal/594666_sjtu_edu_cn/EUrTvD2zK2hNimekHiJS5rABME45O5s7ksSAJpd3ipD-BA?e=7aicGk)|[GT](tbd)
 Street_01|2022-11|1.7g|58s|Street, Straight line|[Rosbag](https://sjtueducn-my.sharepoint.com/:u:/g/personal/594666_sjtu_edu_cn/Ebap2epwtTtHhWtp0AO_nnYB7S7zDZkkW-zTpYVmrHfOEA?e=JvDij7)|[GT](tbd)
@@ -110,25 +101,13 @@ And in some cases, our Ground-Fusion achieves comparable performance to Lidar SL
 </div>
 <p align="center">Figure 3. The visualized trajectory.</p>
 
-## 5. CONFIGURERATION FILES
-For convenience of evaluation, we provide configuration files of some well-known SLAM systems as below:
-
-[VINS-Mono](TBD),
-
-[VINS-RGBD](TBD),
-
-
-[VIW-Fusion](TBD),
-
-[Cartographer](TBD),
-
-[A-LOAM](TBD),
 
 
 
 
-## 6.DEVELOPMENT TOOLKITS
-### 6.1 Extracting Images
+
+## 5.DEVELOPMENT TOOLKITS
+### 5.1 Extracting Images
 * For rosbag users, first make image view
 ~~~
 roscd image_view
@@ -142,7 +121,7 @@ rosrun image_transport republish compressed in:=/camera/color/image_raw raw out:
 ~~~
 * For non-rosbag users,just take advantage of following script  [export_tum](https://github.com/sjtuyinjie/toolkit/blob/main/export_tum.py),[export_euroc](https://github.com/sjtuyinjie/toolkit/blob/main/export_euroc.py) and [get_csv](https://github.com/sjtuyinjie/toolkit/blob/main/img2csv.py) to get data in formats of Tum or EuRoC.
 
-### 6.2 Evaluation
+### 5.2 Evaluation
 We use open-source tool [evo](https://github.com/MichaelGrupp/evo) for evalutation.
 To install evo,type
 ~~~
