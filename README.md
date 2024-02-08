@@ -13,15 +13,11 @@ Extension and update of [M2DGR](https://github.com/SJTU-ViSYS/M2DGR): a novel Mu
 
 
 ## NOTICE
-### The full dataset with GT trajectories and calibration results will be made public upon paper acceptance. Due to space limitation, dataset descriptions are not elaborated in the main paper. Instead, the details are shown in this website.
 
-## This paper has been accepted by ICRA2024! So I decide to release the dataset with its calibration results and GT trajectories right now. Feel free to utilize this full dataset to facilitate your research on SLAM. Please give me a star if you like it.
+### This paper has been accepted by ICRA2024! So I decide to release the dataset with its calibration results and GT trajectories right now. Feel free to utilize this full dataset to facilitate your research on SLAM. Please give me a star if you like it.
 
 ## 1.LICENSE
 This work is licensed under MIT license. International License and is provided for academic purpose. If you are interested in our project for commercial purposes, please contact us on 1195391308@qq.com for further communication. 
-
-
-
 
 
 
