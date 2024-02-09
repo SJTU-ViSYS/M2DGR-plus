@@ -67,6 +67,7 @@ The rostopics of our rosbag sequences are listed as follows:
 
 Sequence Name|Collection Date|Total Size|Duration|Features|Rosbag|GT
 --|:--|:--:|--:|--:|--:|--:
+Anomaly|2023-8|1.5g|57s|wheel anomaly|[Rosbag]()|[GT](tbd)
 Switch|2023-8|9.5g|292s|indoor-outdoor switch|[Rosbag](https://sjtueducn-my.sharepoint.com/:u:/g/personal/594666_sjtu_edu_cn/ESRoBZtYjrtAkOzZZZxjtLIBowQqF3G9Vz-jiaUCCy6E_A?e=RtZkwL)|[GT](tbd)
 Tree|2023-8|3.7g|160s|Dense tree leave cover|[Rosbag](https://sjtueducn-my.sharepoint.com/:u:/g/personal/594666_sjtu_edu_cn/EV9aZQbxo7pChOxZEWqdP0IBDpySkhtOXNIRKP3ijDK62Q?e=fW0afm)|[GT](tbd)
 Bridge_01|2022-11|2.4g|75s|Bridge, Zigzag|[Rosbag](https://sjtueducn-my.sharepoint.com/:u:/g/personal/594666_sjtu_edu_cn/EftDI1uQ_M1Hp4LZVof4sHgB4_IF2C9HBsWYZKAK2mr4EA?e=dydvKz)|[GT](tbd)
