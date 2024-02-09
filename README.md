@@ -19,7 +19,18 @@ Extension and update of [M2DGR](https://github.com/SJTU-ViSYS/M2DGR): a novel Mu
 ## 1.LICENSE
 This work is licensed under MIT license. International License and is provided for academic purpose. If you are interested in our project for commercial purposes, please contact us on 1195391308@qq.com for further communication. 
 
-
+If you use this work in an academic work, please cite:
+~~~
+@ARTICLE{9664374,
+  author={Yin, Jie and Li, Ang and Li, Tao and Yu, Wenxian and Zou, Danping},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={M2DGR: A Multi-sensor and Multi-scenario SLAM Dataset for Ground Robots}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/LRA.2021.3138527}}
+~~~
 
 ## 2.SENSOR SETUP
 
