@@ -1,5 +1,5 @@
 # M2DGR-plus
-Extension and update of [M2DGR](https://github.com/SJTU-ViSYS/M2DGR): a novel Multi-modal and Multi-scenario SLAM Dataset for Ground Robots (ICRA2024 & ICRA2024)
+Extension and update of [M2DGR](https://github.com/SJTU-ViSYS/M2DGR): a novel Multi-modal and Multi-scenario SLAM Dataset for Ground Robots (ICRA2022 & ICRA2024)
 
 ## First Author: [Jie Yin](https://github.com/sjtuyinjie?tab=repositories)
 <div align=center>
