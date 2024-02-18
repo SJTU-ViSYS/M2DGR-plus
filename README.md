@@ -110,43 +110,9 @@ And in some cases, our Ground-Fusion achieves comparable performance to Lidar SL
 <p align="center">Figure 3. The visualized trajectory.</p>
 
 
-
-
-
-
-## 5.DEVELOPMENT TOOLKITS
-### 5.1 Extracting Images
-* For rosbag users, first make image view
-~~~
-roscd image_view
-rosmake image_view
-sudo apt-get install mjpegtools
-~~~
-
-open a terminal,type roscore.And then open another,type
-~~~
-rosrun image_transport republish compressed in:=/camera/color/image_raw raw out:=/camera/color/image_raw respawn="true"
-~~~
-* For non-rosbag users,just take advantage of following script  [export_tum](https://github.com/sjtuyinjie/toolkit/blob/main/export_tum.py),[export_euroc](https://github.com/sjtuyinjie/toolkit/blob/main/export_euroc.py) and [get_csv](https://github.com/sjtuyinjie/toolkit/blob/main/img2csv.py) to get data in formats of Tum or EuRoC.
-
-### 5.2 Evaluation
-We use open-source tool [evo](https://github.com/MichaelGrupp/evo) for evalutation.
-To install evo,type
-~~~
-pip install evo --upgrade --no-binary evo
-~~~
-To evaluate monocular visual SLAM,type
-~~~
-evo_ape tum bridge1.txt your_result.txt -vaps
-~~~
-To evaluate LIDAR SLAM,type
-~~~
-evo_ape tum bridge1.txt your_result.txt -vap
-~~~
-To test GNSS based methods,type
-~~~
-evo_ape tum bridge1.txt your_result.txt -vp
-~~~
+## 5. Configuration Files
+We provide configuration files for several cutting-edge baseline methods, including [VINS-RGBD](https://github.com/sjtuyinjie/M2DGR-plus/tree/main/config_files/vinsrgbd),[TartanVO](https://github.com/sjtuyinjie/Ground-Challenge/tree/main/config_files_gc/tartanvo),[VINS-Mono](https://github.com/sjtuyinjie/M2DGR-plus/tree/main/config_files/vinsmono) and [VIW-Fusion](https://github.com/sjtuyinjie/M2DGR-plus/tree/main/config_files/viwfusion) and 
+[GVINS](https://github.com/sjtuyinjie/M2DGR-plus/tree/main/config_files/gvins).
 
 
 
