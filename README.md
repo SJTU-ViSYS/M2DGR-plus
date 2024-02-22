@@ -23,15 +23,16 @@ This work is licensed under MIT license. International License and is provided f
 
 If you use this work in an academic work, please cite:
 ~~~
-@ARTICLE{9664374,
+@article{yin2021m2dgr,
+  title={M2dgr: A multi-sensor and multi-scenario slam dataset for ground robots},
   author={Yin, Jie and Li, Ang and Li, Tao and Yu, Wenxian and Zou, Danping},
-  journal={IEEE Robotics and Automation Letters}, 
-  title={M2DGR: A Multi-sensor and Multi-scenario SLAM Dataset for Ground Robots}, 
+  journal={IEEE Robotics and Automation Letters},
+  volume={7},
+  number={2},
+  pages={2266--2273},
   year={2021},
-  volume={},
-  number={},
-  pages={1-1},
-  doi={10.1109/LRA.2021.3138527}}
+  publisher={IEEE}
+}
 ~~~
 
 ## 2.SENSOR SETUP
