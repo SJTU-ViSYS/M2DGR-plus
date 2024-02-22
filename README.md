@@ -36,7 +36,7 @@ If you use this work in an academic work, please cite:
 
 
 
-The calibration results are [here](https://github.com/sjtuyinjie/M2DGR-plus/blob/main/calibration.txt).
+The calibration results are [here](https://github.com/SJTU-ViSYS/M2DGR-plus/blob/main/calibration.txt).
 All the sensors and track devices and their most important parameters are listed as below:
 
 * **LIDAR** Robosense 16, 360 Horizontal Field of View (FOV),-30 to +10 vertical FOV,10Hz,Max Range 200 m,Range Resolution 3 cm, Horizontal Angular Resolution 0.2°.  
@@ -111,8 +111,8 @@ And in some cases, our Ground-Fusion achieves comparable performance to Lidar SL
 
 
 ## 5. Configuration Files
-We provide configuration files for several cutting-edge baseline methods, including [VINS-RGBD](https://github.com/sjtuyinjie/M2DGR-plus/tree/main/config_files/vinsrgbd),[TartanVO](https://github.com/sjtuyinjie/Ground-Challenge/tree/main/config_files_gc/tartanvo),[VINS-Mono](https://github.com/sjtuyinjie/M2DGR-plus/tree/main/config_files/vinsmono) and [VIW-Fusion](https://github.com/sjtuyinjie/M2DGR-plus/tree/main/config_files/viwfusion) and 
-[GVINS](https://github.com/sjtuyinjie/M2DGR-plus/tree/main/config_files/gvins).
+We provide configuration files for several cutting-edge baseline methods, including [VINS-RGBD](https://github.com/SJTU-ViSYS/M2DGR-plus/tree/main/config_files/vinsrgbd),[TartanVO](https://github.com/SJTU-ViSYS/Ground-Challenge/tree/main/config_files_gc/tartanvo),[VINS-Mono](https://github.com/SJTU-ViSYS/M2DGR-plus/tree/main/config_files/vinsmono) and [VIW-Fusion](https://github.com/SJTU-ViSYS/M2DGR-plus/tree/main/config_files/viwfusion) and 
+[GVINS](https://github.com/SJTU-ViSYS/M2DGR-plus/tree/main/config_files/gvins).
 
 
 
