@@ -16,7 +16,7 @@ Extension and update of [M2DGR](https://github.com/SJTU-ViSYS/M2DGR): a novel Mu
 
 ### This paper has been accepted by ICRA2024! So I decide to release the dataset with its calibration results and GT trajectories right now. Feel free to utilize this full dataset to facilitate your research on SLAM. Please give me a star if you like it.
 
-### This dataset is based on [M2DGR](https://github.com/SJTU-ViSYS/M2DGR). And the algorithm code is [Ground-Fusion](https://github.com/SJTU-ViSYS/Ground-Fusion).
+### This dataset is based on [M2DGR](https://github.com/SJTU-ViSYS/M2DGR). And the algorithm code is [Ground-Fusion](https://github.com/SJTU-ViSYS/Ground-Fusion). The preprint version of this paper is [arxiv](http://arxiv.org/abs/2402.14308).
 
 ## 1.LICENSE
 This work is licensed under MIT license. International License and is provided for academic purpose. If you are interested in our project for commercial purposes, please contact us on 1195391308@qq.com for further communication. 
