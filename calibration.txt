@@ -1,30 +1,66 @@
-
+#A2B: Convert from coordinate system B to coordinate system A
 rsimu2wheel:
   rows: 4
   cols: 4
   dt: d
-  data: [0, -1, 0, 0,
-          0, 0, -1, 0,
-          1, 0, 0, 0,
-           0, 0, 0, 1]
+  data: [0.352551，-0.935764，-0.00734672，0.0497956，
+            0.0145238，0.0133214，-0.999806 ，1.06332，
+            0.93568，0.352375， 0.0182873，-0.037465，
+           0，0，0，1]
 
 imu2wheel:
   rows: 4
   cols: 4
   dt: d
-  data: [1, 0, 0, 0,
-          0, -1, 0, 0,
-          0, 0, -1, 0,
-           0, 0, 0, 1]
+  data:  [0.9357，0.3524，0.0183，0.1225，
+             0.3526，-0.9358，-0.0073，0.0498，
+             0.0145，0.0133，-0.9998，1.0633，
+             0，0，0，1]
 
-
-lidar2wheel_rotation
-  rows: 3
-  cols: 3
+lidar2wheel:
+  rows: 4
+  cols: 4
   dt: d
-  data: [1, 0, 0, 
-          0, 1, 0, 
-          0, 0, 1]
+  data:  [0.9357，0.3524，0.0183，-0.0075，
+            -0.3526，0.9358，0.0073，-0.0498，
+            -0.0145，-0.0133，0.9998，-2.0933，
+             0，0，0，1]
+
+rsimu2camera:
+  rows: 4
+  cols: 4
+  dt: d
+  data:  [1 ，0，0，0.0，
+          0，1，0 ，0.0，
+          0 ，0，1，0.0，
+          0 ，0 ，0，1.0，]          
+
+lidar2imu:
+  rows: 4
+  cols: 4
+  dt: d
+  data: [1, 0, 0, -0.13,
+         0, -1, 0, 0,
+         0, 0, -1, -1.03,
+         0, 0, 0, 1]
+
+camera2imu:
+  rows: 4
+  cols: 4
+  dt: d
+  data: [0, 1, 0, 0,
+         0, 0, 1, 0,
+         1, 0, 0, -0.16,
+         0, 0, 0, 1]
+
+lidar2camera:
+  rows: 4
+  cols: 4
+  dt: d
+  data: [0, 0, 1, 0.03,
+         -1, 0, 0, 0.0,
+         0, -1, 0, -1.03,
+         0, 0, 0, 1]
 
 
 #imu parameters     
@@ -32,25 +68,31 @@ acc_n: 1.2374091609523514e-02
 gyr_n: 3.0032654435730201e-03     
 acc_w: 1.9218003442176448e-04       
 gyr_w: 5.4692100664858005e-05    
-g_norm: 9.805      
+g_norm: 9.805
 
+# rsimu Settings
+rsimuAccNoise: 0.04
+rsimuGyrNoise: 0.004
+rsimuAccBiasN: 0.002
+rsimuGyrBiasN: 4.0e-5
+rsimuGravity: 9.80511
 
+#lidar Settings
+N_SCAN: 16                                
+Horizon_SCAN: 1800
 
+# camera config 
 model_type: PINHOLE
 camera_name: camera
 image_width: 640
 image_height: 480
 distortion_parameters:
-   k1: 1.4865749308203452e-01
-   k2: -4.6815685578576460e-01
-   p1: 1.6205585303208318e-03
-   p2: -8.9101576735577930e-03
+   k1: 0.0
+   k2: 0.0
+   p1: 0.0
+   p2: 0.0
 projection_parameters:
-   fx: 6.2097277909374247e+02
-   fy: 6.2212293397677581e+02
-   cx: 3.1175896455154810e+02
-   cy: 2.4718077836114819e+02
-
-
-
-
+   fx: 603.95556640625
+   fy: 603.1257934570312
+   cx: 324.0858154296875
+   cy: 232.72303771972656
