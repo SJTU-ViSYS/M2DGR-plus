@@ -133,5 +133,7 @@ We provide configuration files for several cutting-edge baseline methods, includ
 [GVINS](https://github.com/SJTU-ViSYS/M2DGR-plus/tree/main/config_files/gvins).
 
 
+## Star History
 
+[![Star History Chart](https://api.star-history.com/svg?repos=SJTU-ViSYS/M2DGR-plus&type=Timeline)](https://star-history.com/#Ashutosh00710/github-readme-activity-graph&Timeline)
 
