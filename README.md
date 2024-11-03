@@ -20,8 +20,10 @@ First Author: [**Jie Yin 殷杰**](https://sjtuyinjie.github.io/)
 
 
 
+## News & Updates
+- **🔥`2024/10/11`**: Introducing **[M2DGR-benchmark](https://github.com/sjtuyinjie/M2DGR-Benchmark)**, benchmarking newest SOTA LiDAR-visual SLAM alrogithms on both M2DGR and M2DGR-plus!
 
-## NOTICE
+- **`2024/07/15`**: Introducing a list of LiDAR-Visual SLAM systems at [awesome-LiDAR-Visual-SLAM](https://github.com/sjtuyinjie/awesome-LiDAR-Visual-SLAM), wheel-based SLAM systems at [awesome-wheel-slam](https://github.com/sjtuyinjie/awesome-wheel-slam), and Isaac Sim resources at [awesome-isaac-sim](https://github.com/sjtuyinjie/awesome-isaac-sim) (keep updating)
 
 
 ### This dataset is based on [M2DGR](https://github.com/SJTU-ViSYS/M2DGR). And the algorithm code is [Ground-Fusion](https://github.com/SJTU-ViSYS/Ground-Fusion). The preprint version of this paper is [arxiv](http://arxiv.org/abs/2402.14308).
