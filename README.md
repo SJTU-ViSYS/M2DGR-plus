@@ -1,15 +1,27 @@
 # M2DGR-plus: Extension and update of [M2DGR](https://github.com/SJTU-ViSYS/M2DGR), a novel Multi-modal and Multi-scenario SLAM Dataset for Ground Robots (ICRA2022 & ICRA2024)
 
+<div align="center">
+
 First Author: [**Jie Yin 殷杰**](https://sjtuyinjie.github.io/)
 &emsp;
-📝 [[Paper]](https://arxiv.org/abs/2402.14308)
+📝 [[Paper]](https://ieeexplore.ieee.org/document/10610070) / [[Arxiv]](https://arxiv.org/abs/2402.14308)
 &emsp;
-➡️ [[Algorithm]](https://github.com/SJTU-ViSYS/Ground-Fusion)
+➡️ [[Dataset]](https://github.com/SJTU-ViSYS/M2DGR-plus)
 &emsp;
 🎯 [[M2DGR Dataset]](https://github.com/SJTU-ViSYS/M2DGR)
+&emsp;
 ⭐️ [[Presentation Video]](https://www.bilibili.com/video/BV1xx421m75k/?spm_id_from=333.337.search-card.all.click&vd_source=0804300aea4065df90adde5398ee74b7)
+&emsp;
+🔥[[News]](https://mp.weixin.qq.com/s/CfnfxHvn9pbYc4599_JoSg)
 
+[![Author](https://img.shields.io/badge/Author-Jie%20Yin-blue)](https://sjtuyinjie.github.io/)
+[![Paper](https://img.shields.io/badge/Paper-GroundFusion-yellow)](https://ieeexplore.ieee.org/document/10610070)
+[![Preprint](https://img.shields.io/badge/Ppreprint-Arxiv-purple)](https://arxiv.org/abs/2112.13659/)
+[![Dataset](https://img.shields.io/badge/Dataset-M2DGR+%2B-green)](https://github.com/SJTU-ViSYS/M2DGR-plus)
+[![Video](https://img.shields.io/badge/Video-red)](https://www.bilibili.com/video/BV1xx421m75k/?spm_id_from=333.337.search-card.all.click&vd_source=0804300aea4065df90adde5398ee74b7)
+[![News](https://img.shields.io/badge/News-orange)](https://mp.weixin.qq.com/s/CfnfxHvn9pbYc4599_JoSg)
 
+</div>
 
 <div align=center>
 <img src="./fig/car2.jpg" width="800px">
@@ -44,12 +56,17 @@ If you use this work in an academic work, please cite:
   publisher={IEEE}
 }
 
-@article{yin2024ground,
-  title={Ground-Fusion: A Low-cost Ground SLAM System Robust to Corner Cases},
+@INPROCEEDINGS{yin2024ground,
   author={Yin, Jie and Li, Ang and Xi, Wei and Yu, Wenxian and Zou, Danping},
-  journal={arXiv preprint arXiv:2402.14308},
-  year={2024}
-}
+  booktitle={2024 IEEE International Conference on Robotics and Automation (ICRA)}, 
+  title={Ground-Fusion: A Low-cost Ground SLAM System Robust to Corner Cases}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={8603-8609},
+  keywords={Location awareness;Visualization;Simultaneous localization and mapping;Accuracy;Wheels;Sensor fusion;Land vehicles},
+  doi={10.1109/ICRA57147.2024.10610070}}
+
 ~~~
 
 ## 2.SENSOR SETUP
