@@ -16,6 +16,7 @@ First Author: [**Jie Yin 殷杰**](https://sjtuyinjie.github.io/)
 [![Paper](https://img.shields.io/badge/Paper-GroundFusion-yellow)](https://ieeexplore.ieee.org/document/10610070)
 [![Preprint](https://img.shields.io/badge/Preprint-Arxiv-purple)](https://arxiv.org/abs/2112.13659/)
 [![Dataset](https://img.shields.io/badge/Dataset-M2DGR+%2B-green)](https://github.com/SJTU-ViSYS/M2DGR-plus)
+[![License](https://img.shields.io/badge/License-GPL3.0-cyan)]()
 [![Video](https://img.shields.io/badge/Video-red)](https://www.bilibili.com/video/BV1xx421m75k/?spm_id_from=333.337.search-card.all.click&vd_source=0804300aea4065df90adde5398ee74b7)
 [![News](https://img.shields.io/badge/News-orange)](https://mp.weixin.qq.com/s/CfnfxHvn9pbYc4599_JoSg)
 
@@ -39,7 +40,7 @@ First Author: [**Jie Yin 殷杰**](https://sjtuyinjie.github.io/)
 ### This dataset is based on [M2DGR](https://github.com/SJTU-ViSYS/M2DGR). And the algorithm code is [Ground-Fusion](https://github.com/SJTU-ViSYS/Ground-Fusion). The preprint version of this paper is [arxiv](http://arxiv.org/abs/2402.14308).
 
 ## 1.LICENSE
-This work is licensed under MIT license. International License and is provided for academic purpose. If you are interested in our project for commercial purposes, please contact us on robot_yinjie@outlook.com for further communication. 
+This work is licensed under GPL-3.0 license. International License and is provided for academic purpose. If you are interested in our project for commercial purposes, please contact us on robot_yinjie@outlook.com for further communication. 
 
 If you use this work in an academic work, please cite:
 ~~~
