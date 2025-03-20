@@ -112,6 +112,9 @@ The rostopics of our rosbag sequences are listed as follows:
 ## 3.DATASET SEQUENCES
 
 
+> [!TIP]
+>  We are delighted to see that many users enjoy our M2DGR dataset. However, **due to an overwhelming number of download requests, OneDrive has become unstable. If you encounter any issues, please wait for about 10 minutes and try again.**
+
 Sequence Name|Collection Date|Total Size|Duration|Features|Rosbag
 --|:--|:--:|--:|--:|--:
 Anomaly|2023-8|1.5g|57s|wheel anomaly|[Rosbag](https://sjtueducn-my.sharepoint.com/:u:/g/personal/594666_sjtu_edu_cn/Ef8corMuVwhJsWSpp-FXkREBrTduGBO8nifC9VEb5twHVg?e=CyEeMy)
