@@ -113,7 +113,7 @@ The rostopics of our rosbag sequences are listed as follows:
 
 
 > [!TIP]
->  We are delighted to see that many users enjoy our M2DGR dataset. However, **due to an overwhelming number of download requests, OneDrive has become unstable. If you encounter any issues, please wait for about 10 minutes and try again.**
+>  We are delighted to see that many users enjoy our M2DGR-plus dataset. However, **due to an overwhelming number of download requests, OneDrive has become unstable. If you encounter any issues, please wait for about 10 minutes and try again.**
 
 Sequence Name|Collection Date|Total Size|Duration|Features|Rosbag
 --|:--|:--:|--:|--:|--:
