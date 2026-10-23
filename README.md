@@ -29,6 +29,9 @@ First Author: [**Jie Yin 殷杰**](https://sjtuyinjie.github.io/)
 <p align="center">Figure 1. Acquisition Platform and Diverse Scenarios.</p>
 
 
+# 🎯 Notice
+## 2026.10.22: Old download links are not working, I'm uploading these bags to a new onedrive account and will fix this problem as soon as possible!
+
 
 
 ## News & Updates
